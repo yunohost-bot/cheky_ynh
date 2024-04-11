@@ -8,7 +8,7 @@ name = "Cheky"
 description.en = "Monitors French classifieds websites LeBonCoin and SeLoger"
 description.fr = "Surveille pour vous LeBonCoin et SeLoger"
 
-version = "4.4.1~ynh5"
+version = "4.4.1~ynh6"
 
 maintainers = ["Gofannon"]
 

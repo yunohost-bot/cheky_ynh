@@ -23,6 +23,10 @@ It shall NOT be edited by hand.
 
 
 **Shipped version:** 4.4.1~ynh6
+## :red_circle: Antifeatures
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentation and resources
 
 - Official app website: <https://www.cheky.net>

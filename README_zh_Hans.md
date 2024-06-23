@@ -3,7 +3,7 @@
 请勿手动编辑。
 -->
 
-# YunoHost 的 Cheky
+# YunoHost 上的 Cheky
 
 [![集成程度](https://dash.yunohost.org/integration/cheky.svg)](https://dash.yunohost.org/appci/app/cheky) ![工作状态](https://ci-apps.yunohost.org/ci/badges/cheky.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/cheky.maintain.svg)
 
@@ -23,6 +23,10 @@
 
 
 **分发版本：** 4.4.1~ynh6
+## :red_circle: 负面特征
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## 文档与资源
 
 - 官方应用网站： <https://www.cheky.net>

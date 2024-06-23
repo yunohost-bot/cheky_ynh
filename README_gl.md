@@ -23,6 +23,10 @@ NON debe editarse manualmente.
 
 
 **Versión proporcionada:** 4.4.1~ynh6
+## :red_circle: Debes considerar
+
+- **Upstream not maintained**: This software is not maintained anymore. Expect it to break down over time, be exposed to unfixed security breaches, etc.
+
 ## Documentación e recursos
 
 - Web oficial da app: <https://www.cheky.net>
